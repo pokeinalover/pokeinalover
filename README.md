@@ -1,5 +1,5 @@
-## Hallo! 💕pokeinalover here!💕
-## An artist trying to learn how to code xd🎨🖌️
+# Hallo! 💕pokeinalover here!💕
+### An artist trying to learn how to code xd🎨🖌️
 
 In other words, I'm new
 
